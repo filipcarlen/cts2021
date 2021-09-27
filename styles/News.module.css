@@ -1,0 +1,23 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.listItem {
+  display: flex;
+  flex: 1;
+  border-radius: 5px;
+  flex-direction: column;
+  height: auto;
+  margin: 1rem;
+  padding: 1rem;
+  box-shadow: 0 2px 3px rgba(10,10,10,.1),0 0 0 1px rgba(10,10,10,.1);
+}
+
+.heading {
+  margin: 0;
+  margin-bottom: 0.5rem;
+}

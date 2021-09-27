@@ -1,0 +1,19 @@
+.header {
+  padding: 6px;
+  padding-left: 12rem;
+  padding-right: 12rem;
+  display: flex;
+  flex-direction: row;
+  background: #323232;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+}
+
+.backToHome {
+  margin: 3rem 0 0;
+}
